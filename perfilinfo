@@ -1,9 +1,7 @@
-[
-  {
+{
     "nombre": "Rigoberto Dener Seide",
     "correo": "rigoberto@gmail.com",
     "tel": "000 000 000",
     "contrasena": "denerseide",
-    "suscripcion":" normal"
-  }
-] 
+    "suscripcion":"normal"
+ }
